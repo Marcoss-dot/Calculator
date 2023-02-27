@@ -1,0 +1,9 @@
+
+[Dd]ebug*/
+
+obj/
+
+/.vs/
+.vs/
+
+*.csproj*
